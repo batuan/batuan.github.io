@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
 <!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
@@ -11,6 +11,7 @@ order: 4
 
 My name is Tuân, currently, I am on the way to becoming a Data Engineer. I have a master's degree in Artificial Intelligence, Systems, and Data from [PSL University](https://www.lamsade.dauphine.fr/wp/iasd/en/). 
 
+You can find my CV at this [link](/assets/cv/THAI_BaTuan_CV_DataEngineer.pdf)
 
 ### 🚀 Technical stack:
 
